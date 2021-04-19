@@ -1,4 +1,4 @@
-### Hi there 👋, I am Saurav Gharti
+### Hi there 👋 , I am Saurav Gharti
 
 <!--
 **sgmagar/sgmagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
